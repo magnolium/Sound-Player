@@ -1,4 +1,4 @@
-# Sound-Player
+# SoundPlayer
 Intended to give phone (web) access to a soundboard on the Raspberry Pi over the network.
 <br><br>
 This was created for a very specific purpose.
